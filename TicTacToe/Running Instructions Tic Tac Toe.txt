@@ -1,0 +1,5 @@
+1. The TestClass.java contains the main method
+2. For running type java TestClass in CMD or Terminal
+
+
+The game can be played between two players.
